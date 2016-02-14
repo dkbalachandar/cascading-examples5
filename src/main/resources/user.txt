@@ -1,0 +1,6 @@
+Test1	31
+Test2	32
+Test3	35
+Test4	24
+Test5	21
+Test6	22
